@@ -1,0 +1,150 @@
+<style>
+
+      
+    .chicken, .chicken2, .chicken3, .po, .rat, .chi {
+             border-style: solid;
+             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+              }
+    
+              .po, .rat, .chi {
+                margin-top: 0%;
+          border-top-width: 0px;
+              }
+           
+    
+            @media (min-width: 992px) {
+                
+                .header {
+             width: 100%;
+           
+            
+              }
+    
+              p {
+             clear: right;
+           
+            
+              }
+    
+            .lorem {
+             float: left;
+           
+            
+              }
+    
+              .chicken2, .chicken, .chicken3 {
+              width: 30%;
+              float:left;
+              margin-left: 1rem;
+              padding-left: 1rem;
+              background-color: grey;
+            }
+    
+    
+              .chi {
+              background-color: rgb(185, 121, 131);
+              padding-right: 5%;
+              padding-left: 5%;
+              border-right: 0px;
+              font-size: 120%;
+             border-style: solid;
+              border-color: black;
+              float: right;
+              
+            }
+    
+    
+            .po{
+              background-color: rgb(243, 12, 47);
+              color: blanchedalmond;
+              margin-left: 65%;
+              padding-left: 7%;
+              font-size: 120%;
+              margin-right: 5%;
+             border-style: solid;
+              border-color: black;
+            }
+    
+    
+    
+            .rat {
+              background-color: rgb(228, 226, 97);
+              
+            float:right;
+            padding-left: 5%;
+          border-right: 0px;
+              font-size: 120%;
+             border-style: solid;
+              border-color: black;
+              width: 4rem;
+            
+            }
+          }
+              @media (max-width: 991px) and (min-width: 768px) {
+               
+         
+               
+    
+              .chicken2, .chicken {
+              width: 35%;
+              float:left;
+              margin-left: 1rem;
+            }
+    
+             .chicken3 {
+              width: 75%;
+              clear: left;
+              margin-left: 1rem;
+              
+            } 
+    
+    
+            .chi {
+              background-color: rgb(185, 121, 131);
+              margin-left: 65%;
+              padding-left: 5%;
+              font-size: 120%;
+             border-style: solid;
+              border-color: black;
+            }
+    
+    
+            .po{
+              background-color: rgb(243, 12, 47);
+              color: blanchedalmond;
+              margin-left: 65%;
+              padding-left: 7%;
+              font-size: 120%;
+              margin-right: 5%;
+             border-style: solid;
+              border-color: black;
+            }
+    
+    
+    
+            .rat {
+              background-color: rgb(228, 226, 97);
+              
+              margin-left: 81%;
+            padding-left: 3%;
+    
+              font-size: 120%;
+             border-style: solid;
+              border-color: black;
+              width: 4rem;
+            
+            }
+                   
+             } 
+            
+          
+              
+            
+              @media (max-width: 767px) {
+                body {
+                  background-color: lightblue;
+                }
+              }
+    
+             
+                    </style>
